@@ -1,0 +1,89 @@
+.panel  > .col-lg-12 {
+    margin-top: 20px;
+}
+
+.form-group label.danger {
+	color: red;
+}
+
+.form-group label.success {
+	color: green;
+}
+
+label {
+    font-weight: 400;
+}
+
+thead th {
+    background: #fffad3;
+    vertical-align: middle !important;
+}
+
+tbody td {
+	vertical-align: middle !important;
+}
+
+table .form-group {
+    margin-bottom: 0px;
+}
+
+.btn-large {
+    font-size: 18px;
+    padding: 10px 30px;
+    margin: 10px 0px 50px;
+}
+
+.serviceadder {
+    padding: 40px 50px;
+    border: 1px solid #cacaca;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+
+table#dataTables-example {
+    margin-bottom: 70px;
+}
+
+span#hint_comments {
+    margin-top: 20px;
+}
+
+.service-list-container{ /*
+	margin-top:20px; 
+	padding:20px; 
+	border:1px solid #cacaca; 
+	border-radius:5px; */
+}
+
+div#new_service_container {
+    border: 1px solid #cacaca;
+    background: rgba(218, 243, 234, 0.74);
+    padding: 10px;
+    margin: 10px 0px 20px;
+}
+
+.extra_service {
+    border-bottom: 1px dotted #616161;
+    padding: 10px 0px;
+}
+
+.extra_service .name {
+    width: 95%;
+    display: inline-block;
+    font-weight: bold;
+}
+
+a.deleteme {
+    background: #af5f5f;
+    padding: 3px 5px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+span.tmima {
+    display: block;
+    text-align: right;
+    margin-right: 20px;
+    font-weight: normal;
+    font-style: italic;
+}
